@@ -1,0 +1,4 @@
+<span id="a">info@runninglol.com</span>:<span id="b">~</span><span id="c">$</span> uname<br/>
+runninglol.com<br/>
+<span id="a">info@runninglol.com</span>:<span id="b">~</span><span id="c">$</span> info<br/>
+Coming Soon, "<span id="k">Code for Everyone</span>".
